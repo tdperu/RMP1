@@ -1,6 +1,5 @@
-# Rate Your Professor
+# Rate Your Professor a Vue.js Project
 
-> A Vue.js project
 
 ## Build Setup
 
