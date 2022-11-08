@@ -1,4 +1,4 @@
-# login_page
+# Rate Your Professor
 
 > A Vue.js project
 
